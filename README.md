@@ -184,3 +184,11 @@ Verify react-datepicker is installed and imported correctly.
 Conclusion
 
 The Travel Planner app provides users with a simple and intuitive interface to generate personalized travel itineraries. With clean design and dynamic functionality, it serves as a great starting point for further enhancements.
+
+## Tech Stack
+
+- **Frontend:** ReactJS, Tailwind CSS
+- **Backend:** ASP.NET Core
+- **Database:** SQL Server
+- **APIs:** OpenAI
+- **Version Control:** Git
